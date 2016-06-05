@@ -1,4 +1,4 @@
-# Dodge - v0.0.1
+# Dodge2D - v0.0.1
 Basic game made using Love2D.
 
 ## Running the game
